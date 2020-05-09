@@ -1,0 +1,12 @@
+{
+	"name": "kelemen/ocpp",
+	"description": "OCPP server",
+	"type": "library",
+	"license": "MIT",
+	"require": {
+		"php": ">= 7.3",
+	},
+	"autoload": {
+		"classmap": ["src/"]
+	}
+}
